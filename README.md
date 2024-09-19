@@ -92,7 +92,7 @@ This project integrates multiple components and functionalities to create a vers
 - **Additional Modes**: Integration of new functionalities or modes.
 - **User Interface Enhancements**: Improving the LCD interface for better usability.
 
-- [Project Code](#) | [Demo Video](#)
+- [Project Code](PIC_Microcontroller_Projects_in_C_Basic/Final_project) | [Demo Video](#)
 
 ---
 
