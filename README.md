@@ -14,7 +14,8 @@ In this project, we implemented a simple LED loop using a PIC microcontroller. T
 ### 2. **Random Number Generator with Push Button**
 This project focused on generating a random number using a microcontroller. A push button was used as input to trigger the random number generation. The random number was displayed on LEDs in binary form. The use of timers and pseudorandom number generation techniques was explored.
 
-- [Project Code](PIC_Microcontroller_Projects_in_C_Basic/TASK_2_Random_nubmer) | [Demo Video](#)
+- [Project Code](PIC_Microcontroller_Projects_in_C_Basic/TASK_2_Random_nubmer) | [Demo Video](https://github.com/user-attachments/assets/10c6450b-b267-4594-9c1b-ac8d35ee9e5f
+)
 
 ### 3. **LED Sequence Checker with Buzzer**
 In this project, we built a system that checks a predefined LED sequence. The system turns on LEDs in a specific order, and if the sequence is completed successfully, a buzzer sound is triggered.
