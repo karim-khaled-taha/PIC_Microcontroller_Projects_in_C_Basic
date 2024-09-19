@@ -100,7 +100,4 @@ This project integrates multiple components and functionalities to create a vers
 
 Completing these projects provided hands-on experience with microcontroller programming and hardware interfacing. Through these projects, I gained a deeper understanding of embedded systems, which will serve as a strong foundation for future projects in this field.
 
----
 
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
