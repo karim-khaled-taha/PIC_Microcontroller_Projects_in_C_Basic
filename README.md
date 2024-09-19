@@ -24,7 +24,7 @@ In this project, we built a system that checks a predefined LED sequence. The sy
 ### 4. **Stopwatch Using 7-Segment Display (Multiplexing)**
 This project involved creating a stopwatch using multiple 3 7-segment displays controlled by the microcontroller. We used multiplexing to manage the display of digits on the 7-segment display and implemented timing logic to start, stop, and reset the stopwatch. Push buttons were used to control the stopwatch functions.
 
-- [Project Code](PIC_Microcontroller_Projects_in_C_Basic/TASK_4_stop watch) | [Demo Video](#)
+- [Project Code](PIC_Microcontroller_Projects_in_C_Basic/TASK_4_stop_watch ) | [Demo Video](#)
 
 ### 5. **Final Project**
 
