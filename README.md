@@ -19,12 +19,12 @@ This project focused on generating a random number using a microcontroller. A pu
 ### 3. **LED Sequence Checker with Buzzer**
 In this project, we built a system that checks a predefined LED sequence. The system turns on LEDs in a specific order, and if the sequence is completed successfully, a buzzer sound is triggered.
 
-- [Project Code](PIC_Microcontroller_Projects_in_C_Basic/TASK_3_buzzer_push buttom) | [Demo Video](#)
+- [Project Code](PIC_Microcontroller_Projects_in_C_Basic/TASK_3_check_list_for_led_push_buttom) | [Demo Video](#)
 
 ### 4. **Stopwatch Using 7-Segment Display (Multiplexing)**
 This project involved creating a stopwatch using multiple 3 7-segment displays controlled by the microcontroller. We used multiplexing to manage the display of digits on the 7-segment display and implemented timing logic to start, stop, and reset the stopwatch. Push buttons were used to control the stopwatch functions.
 
-- [Project Code](PIC_Microcontroller_Projects_in_C_Basic/TASK_4_stop_watch ) | [Demo Video](#)
+- [Project Code](PIC_Microcontroller_Projects_in_C_Basic/TASK_4_stop_watch_MUX) | [Demo Video](#)
 
 ### 5. **Final Project**
 
