@@ -9,26 +9,26 @@ This repository showcases the projects completed during the Microcontroller cour
 ### 1. **LED Loop**
 In this project, we implemented a simple LED loop using a PIC microcontroller. The project involved turning on each LED one after another in a continuous loop. The program shifts a binary `1` across a set of LEDs connected to the output pins of the microcontroller, giving a visual effect of moving light. The delay between each shift was set to 1 second, and the loop would reset after completing a full cycle.
 
-- **Skills Learned**: Bitwise operations, port configuration, LED control, timing loops.
+- [Project Code](#) | [Demo Video](#)
 
 ### 2. **Random Number Generator with Push Button**
 This project focused on generating a random number using a microcontroller. A push button was used as input to trigger the random number generation. The random number was displayed on LEDs in binary form. The use of timers and pseudorandom number generation techniques was explored.
 
-- **Skills Learned**: Button debouncing, timers, random number generation, hardware interfacing.
+- [Project Code](#) | [Demo Video](#)
 
 ### 3. **LED Sequence Checker with Buzzer**
 In this project, we built a system that checks a predefined LED sequence. The system turns on LEDs in a specific order, and if the sequence is completed successfully, a buzzer sound is triggered.
 
-- **Skills Learned**: Output checking, sequence logic, buzzer control, multi-output handling.
+- [Project Code](#) | [Demo Video](#)
 
 ### 4. **Stopwatch Using 7-Segment Display (Multiplexing)**
 This project involved creating a stopwatch using multiple 3 7-segment displays controlled by the microcontroller. We used multiplexing to manage the display of digits on the 7-segment display and implemented timing logic to start, stop, and reset the stopwatch. Push buttons were used to control the stopwatch functions.
 
-- **Skills Learned**: Multiplexing, 7-segment display control, timing and counter logic, button handling.
+- [Project Code](#) | [Demo Video](#)
 
-# Final Project Overview
+### 5. **Final Project**
 
-### Introduction
+### Overview
 This project integrates multiple components and functionalities to create a versatile system with different modes of operation. It utilizes various hardware components and programming techniques to achieve its objectives, such as mode switching, password protection, calculations, light monitoring, and more.
 
 ## Project Objectives
@@ -92,13 +92,15 @@ This project integrates multiple components and functionalities to create a vers
 - **Additional Modes**: Integration of new functionalities or modes.
 - **User Interface Enhancements**: Improving the LCD interface for better usability.
 
+- [Project Code](#) | [Demo Video](#)
+
 ---
-
-
-
-
-
 
 ## Conclusion
 
 Completing these projects provided hands-on experience with microcontroller programming and hardware interfacing. Through these projects, I gained a deeper understanding of embedded systems, which will serve as a strong foundation for future projects in this field.
+
+---
+
+## License
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
