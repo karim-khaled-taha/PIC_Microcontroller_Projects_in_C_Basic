@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo4 -N"D:\3rd Biomedical year\micro c\TASK_1_LED\TASK 1 _ LED\task_1_led.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\3rd Biomedical year\micro c\TASK_1_LED\TASK 1 _ LED\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"D:\3rd Biomedical year\micro c\TASK_1_LED\TASK 1 _ LED\" "task_1_led.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	task_1_led.c
+diagnostics: 19	123	Compiled Successfully	task_1_led.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 1 (1%)  Free RAM (bytes): 2026 (99%)	Used RAM (bytes): 1 (1%)  Free RAM (bytes): 2026 (99%)
+hint: 0	1144	Used ROM (bytes): 106 (1%)  Free ROM (bytes): 32662 (99%)	Used ROM (bytes): 106 (1%)  Free ROM (bytes): 32662 (99%)
+diagnostics: 0	125	Project Linked Successfully	task_1_led.mcppi
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'task_1_led.mcppi' completed: 203 ms	 
+diagnostics: 0	103	Finished successfully: 02 ‰Ê›„»— 2023, 18:06:21	task_1_led.mcppi

@@ -1,0 +1,40 @@
+int main() {
+              int i;
+          TRISC=0;
+          TRISA.RA0=0;
+          TRISb.RB6=1;
+          TRISb.RB7=1;
+             LATC=0B0000001;
+    while (1) {
+
+    if (PORTB.RB6 == 1){
+
+
+            for(i=0; i<9;i++)
+            (
+
+
+            LATC=LATC<<1;
+
+
+            )
+
+         delay_ms(500);
+
+      }
+      if (PORTB.RB7 == 1){
+
+
+            if (LATC==0)
+          {
+          LATC=0B10000000;
+          }
+         delay_ms(500);
+         LATC=LATC>>1;
+      }
+    }
+  }
+
+
+
+

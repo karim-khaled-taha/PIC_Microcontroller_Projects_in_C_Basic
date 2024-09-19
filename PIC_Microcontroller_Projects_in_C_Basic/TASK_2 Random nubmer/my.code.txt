@@ -1,0 +1,47 @@
+#include <stdlib.h>
+int main() {
+    TRISD = 0;  // Configure PORTD as an output
+
+    while (1) {
+        // Wait for the push-button press
+        if (PORTB.RB7 == 1) {
+            // Generate a random number within the range 1 to 6
+            char lower = 1, upper = 6;  // to create a value between 1 and 6
+            char randomValue = (rand() % 6);  // Add 1 to ensure a range from 1 to 6
+
+            switch (randomValue) {
+                case 1:
+                    LATD = 8;  // Set bit 3 of LATD high
+                    delay_ms(2000);
+                    LATD = 0;
+                    break;
+                case 2:
+                    LATD = 12;  // Set bits 2 and 3 of LATD high
+                    delay_ms(2000);
+                    LATD = 0;
+                    break;
+                case 3:
+                    LATD = 14;  // Set bits 1, 2, and 3 of LATD high
+                    delay_ms(2000);
+                    LATD = 0;
+                    break;
+                case 4:
+                    LATD = 29;  // Set bits 0, 2, and 3 of LATD high
+                    delay_ms(2000);
+                    LATD = 0;
+                    break;
+                case 5:
+                    LATD = 31;  // Set all bits (0 to 4) of LATD high
+                    delay_ms(2000);
+                    LATD = 0;
+                    break;
+                case 6:
+                default:
+                    // Handle any other cases if needed
+                    break;
+            }
+        }
+    }
+
+    return 0;
+}
