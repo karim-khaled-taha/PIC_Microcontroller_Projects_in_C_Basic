@@ -9,7 +9,7 @@ This repository showcases the projects completed during the Microcontroller cour
 ### 1. **LED Loop**
 In this project, we implemented a simple LED loop using a PIC microcontroller. The project involved turning on each LED one after another in a continuous loop. The program shifts a binary `1` across a set of LEDs connected to the output pins of the microcontroller, giving a visual effect of moving light. The delay between each shift was set to 1 second, and the loop would reset after completing a full cycle.
 
-- [Project Code](#) | [Demo Video](#)
+- [Project Code](#PIC_Microcontroller_Projects_in_C_Basic/TASK_1_LED) | [Demo Video](#)
 
 ### 2. **Random Number Generator with Push Button**
 This project focused on generating a random number using a microcontroller. A push button was used as input to trigger the random number generation. The random number was displayed on LEDs in binary form. The use of timers and pseudorandom number generation techniques was explored.
