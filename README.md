@@ -26,7 +26,7 @@ This project involved creating a stopwatch using multiple 3 7-segment displays c
 
 - [Project Code](PIC_Microcontroller_Projects_in_C_Basic/TASK_4_stop_watch_MUX) | [Demo Video](https://github.com/user-attachments/assets/52859488-8030-457f-b97f-72540ea0003d)
 
-### 5. **Final Project**
+### 5. **Final Project** (Taem Work)
 
 ### Overview
 This project integrates multiple components and functionalities to create a versatile system with different modes of operation. It utilizes various hardware components and programming techniques to achieve its objectives, such as mode switching, password protection, calculations, light monitoring, and more.
