@@ -103,4 +103,3 @@ This project integrates multiple components and functionalities to create a vers
 Completing these projects provided hands-on experience with microcontroller programming and hardware interfacing. Through these projects, I gained a deeper understanding of embedded systems, which will serve as a strong foundation for future projects in this field.
 
 
-[تدريب ميدانى 2.pdf](https://github.com/user-attachments/files/17089716/2.pdf)
