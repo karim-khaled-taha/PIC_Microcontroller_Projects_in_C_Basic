@@ -1,6 +1,6 @@
-# Microcontroller Projects - Course Completion
+# Microcontroller Projects 
 
-## Course Overview
+##  Overview
 
 This repository showcases the projects completed during the Microcontroller course as part of my college curriculum. The course focused on understanding the fundamentals of microcontrollers, programming, and interfacing with peripheral devices. Throughout the course, we explored a variety of hands-on projects to apply key concepts such as control logic, input/output handling, and timing.
 
